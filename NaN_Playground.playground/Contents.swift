@@ -10,9 +10,6 @@ var nameVar = "Ghost Web"
 nameVar = "Infinity Web"
 
 
-
-
-
 //Constantes "let"
 let nameConst = "Rabbi"
-nameConst = 
+nameConst = "Greatest"//Error because i use let for constante
